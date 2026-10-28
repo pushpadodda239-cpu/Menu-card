@@ -2,7 +2,7 @@
 int main()
 {
   int option,quantity;
-  int Pizza=0,Piryani=0,Pasta=0,Coffee=0;
+  int Pizza=0,Biryani=0,Pasta=0,Coffee=0;
   int total=0;
   do
   {
