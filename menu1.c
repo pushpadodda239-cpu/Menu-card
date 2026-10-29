@@ -43,7 +43,6 @@ int main()
               break;
           case 0:
               printf("\n Generating your bill... \n ");
-              scanf("%d",&quantity);
               break;
           default:
               printf("Invalid Choice\n");
